@@ -338,14 +338,7 @@ Food_Delivery_PowerBI_Analysis/
 
 ## Dashboard Preview
 
-Add the dashboard screenshot here when uploading the project to GitHub.
-
-Example:
-
-```md
 ![Food Delivery Dashboard](Images/food_delivery_dashboard.png)
-```
-
 ---
 
 ## Project Outcome
