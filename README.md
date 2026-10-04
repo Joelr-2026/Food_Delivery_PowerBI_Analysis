@@ -331,8 +331,7 @@ Food_Delivery_PowerBI_Analysis/
 ├── Images/
 │   └── food_delivery_dashboard.png
 │
-└── README/
-    └── README.md
+└── README.md
 ```
 
 ---
@@ -344,7 +343,7 @@ Add the dashboard screenshot here when uploading the project to GitHub.
 Example:
 
 ```md
-![Food Delivery Dashboard](../Images/food_delivery_dashboard.png)
+![Food Delivery Dashboard](Images/food_delivery_dashboard.png)
 ```
 
 ---
